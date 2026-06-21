@@ -2,7 +2,7 @@
 
 Production-quality prompts and recipes for building with the [Afriex Business API](https://docs.afriex.com) through **MCP** (Model Context Protocol) in AI-native development tools.
 
-This is **not** the Python SDK. This is **not** an application. It is a curated library of copy-paste prompts that help you and your AI assistant ship real payment workflows faster.
+This is **not** an SDK. This is **not** an application. It is a curated library of copy-paste prompts that help you and your AI assistant ship real payment workflows faster.
 
 ---
 
@@ -174,7 +174,6 @@ Recipes should be specific, production-oriented, and grounded in real Afriex MCP
 
 - [Afriex Business API docs](https://docs.afriex.com)
 - [Afriex MCP server](https://docs.afriex.com/mcp/introduction)
-- [Python SDK](../) (separate repo — for code-first integrations)
 
 ## License
 
